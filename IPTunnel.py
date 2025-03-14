@@ -7,7 +7,7 @@ import time
 import argparse
 
 LOCAL_PORT = '20009'
-DESTINATION_IP = '84.10.53.220'
+DESTINATION_IP = '127.0.0.1'
 DESTINATION_PORT = '22'
 
 parser = argparse.ArgumentParser(description='IP Tunnel 0.3', epilog='neq5@o2.pl')
